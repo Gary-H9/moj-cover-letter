@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Gary-H9/moj-cover-letter#readme",
   "dependencies": {
+    "govuk-frontend": "^4.7.0",
     "sass": "^1.69.5"
   }
 }
