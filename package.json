@@ -1,0 +1,23 @@
+{
+  "name": "moj-cover-letter",
+  "version": "1.0.0",
+  "description": "Simple Rails Cover Letter Generator",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gary-H9/moj-cover-letter.git"
+  },
+  "author": "Gary-H9",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gary-H9/moj-cover-letter/issues"
+  },
+  "homepage": "https://github.com/Gary-H9/moj-cover-letter#readme"
+}
