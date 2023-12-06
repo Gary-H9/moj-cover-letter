@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Gary-H9/moj-cover-letter/issues"
   },
-  "homepage": "https://github.com/Gary-H9/moj-cover-letter#readme"
+  "homepage": "https://github.com/Gary-H9/moj-cover-letter#readme",
+  "dependencies": {
+    "sass": "^1.69.5"
+  }
 }
